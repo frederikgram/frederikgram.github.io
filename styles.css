@@ -9,8 +9,14 @@ th, td {
   border-bottom: 1px solid #ddd;
 }
 
+#navigation-wrapper {
+    margin-top: 2.5%;
+    letter-spacing: .5px;
+    word-spacing: 1000%;
+}
 #portfolio-wrapper {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2.5%;
 }
