@@ -1,16 +1,28 @@
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-th, td {
-  padding: 8px;
-  text-align: left;
-  border-bottom: 1px solid #ddd;
-}
-
 #navigation-wrapper {
     margin-top: 2.5%;
     letter-spacing: .5px;
     word-spacing: 1000%;
+}
+
+
+#updates-wrapper {
+  width: 30%;
+  margin: auto;
+  margin-top:3.5%;
+}
+
+.post h5 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.post h3 {
+  text-align: center;
+}
+
+.post {
+  border: 0;
+  width: 100%;
+  border-bottom: 2px groove black;
+  margin-bottom: 13.33%;
 }
