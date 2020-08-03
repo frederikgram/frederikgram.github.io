@@ -1,6 +1,26 @@
 #navigation-wrapper {
+    width: 75%;
     margin-top: 10%;
     letter-spacing: .5px;
     word-spacing: 1000%;
     font-size: xx-large;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#portfolio {
+    width: 50%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+}
+
+.portfolio-item {
+    display:inline-block;
+}
+
+.header Python{
+    background: black;
 }
